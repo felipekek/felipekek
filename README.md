@@ -61,7 +61,7 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
     height="170"
   />
 </p>
->
+
 
 <br/>
 <br/>
