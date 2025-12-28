@@ -57,8 +57,10 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
     height="170"
   />
   <img
+    align="left" 
+      alt="GitHub Stats" 
+      height="200" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipekek&theme=tokyonight&layout=compact&langs_count=6"
-    height="170"
   />
 </p>
 
