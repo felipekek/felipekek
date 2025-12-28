@@ -64,9 +64,6 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
 
 
 
-
-
-
 <br/>
 <br/>
 
