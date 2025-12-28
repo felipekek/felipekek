@@ -53,20 +53,15 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipekek&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=felipekek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-
   <img 
-    align="left" 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekek&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipekek&theme=tokyonight&layout=compact&langs_count=6"
   />
 </p>
+
 
 
 <br/>
