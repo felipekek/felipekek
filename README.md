@@ -51,21 +51,25 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
 
 ## 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipekek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    align="left" 
-      alt="GitHub Stats" 
-      height="200"  
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipekek&theme=tokyonight&layout=compact&langs_count=6"
-  />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipekek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+        height="165"
+        style="object-fit: cover;"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipekek&theme=tokyonight&layout=compact&langs_count=6"
+        height="165"
+        style="object-fit: cover;"
+      />
+    </td>
+  </tr>
+</table>
+
 
 
 
