@@ -70,4 +70,4 @@ Tecnologias utilizadas: **JavaScript, Node.js, Firebase, Supabase**
 
 ## 📫 Contato
 - 📧 Email profissional: **luisdevbrito@gmail.com**
-- 💼 LinkedIn: *(adicionar em breve)*
+- 💼 LinkedIn: *www.linkedin.com/in/luisfelipeviana*
