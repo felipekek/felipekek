@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=felipekek&theme=tokyo-night&hide_border=true" 
+    alt="Gráfico de atividade do GitHub"
+  />
+</div>
+
 # 👨‍💻 Luís Felipe de Brito Viana
 
 **`Desenvolvedor de Software | Web & Back-end`**
