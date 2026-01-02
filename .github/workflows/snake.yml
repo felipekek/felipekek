@@ -2,12 +2,16 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # roda 1x por dia
+  workflow_dispatch:   # permite rodar manualmente
+
+permissions:
+  contents: write     # 🔴 MUITO IMPORTANTE (permite push na branch output)
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Generate snake
         uses: Platane/snk/svg-only@v3
