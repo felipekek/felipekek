@@ -1,18 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=70A5FD&center=true&vCenter=true&width=520&lines=Carregando+estat%C3%ADsticas...;Buscando+contribui%C3%A7%C3%B5es...;Pronto+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=Carregando+estat%C3%ADsticas...;Buscando+contribui%C3%A7%C3%B5es...;Pronto+%F0%9F%9A%80" />
 </p>
 
-<!-- Painel principal de estatísticas (gerado por GitHub Actions) -->
-<div align="center">
- <img
-  src="https://raw.githubusercontent.com/felipekek/felipekek/main/metrics.svg"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight"
+  alt="Profile Details"
   width="100%"
-  alt="GitHub Metrics"
 />
 
-</div>
-
----
 
 # 👨‍💻 Luís Felipe de Brito Viana
 **`Desenvolvedor de Software Júnior | Web & Back-end`**
@@ -37,9 +32,11 @@ Gosto de aprender na prática e desenvolver projetos completos, desde a lógica 
   <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
   <img alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
-  <img alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/icon@latest/icons/supabase/supabase-original.svg"/>
+  <img alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
   <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
+
+<br/><br/>
 
 ---
 
@@ -61,7 +58,7 @@ Sistema de gerenciamento e monitoramento de transporte universitário.
 
 <div align="center">
 
-  <!-- 🐍 Snake animation (gerado por GitHub Actions) -->
+  <!-- 🐍 Snake animation -->
   <img 
     src="https://raw.githubusercontent.com/felipekek/felipekek/output/github-contribution-grid-snake-dark.svg" 
     alt="Snake animation"
