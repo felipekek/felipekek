@@ -1,22 +1,8 @@
-<div align="center">
-
-  <!-- Painel principal de estatísticas -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight"
-    alt="Profile Details"
-    width="100%"
-  />
-
-  <br/>
-
-  <!-- Snake animation (contribuições) -->
-  <img 
-    src="https://raw.githubusercontent.com/felipekek/felipekek/output/github-contribution-grid-snake-dark.svg" 
-    alt="Snake animation"
-    width="100%"
-  />
-
-</div>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight"
+  alt="Profile Details"
+  width="100%"
+/>
 
 # 👨‍💻 Luís Felipe de Brito Viana
 **`Desenvolvedor de Software Júnior | Web & Back-end`**
@@ -67,16 +53,23 @@ Sistema de gerenciamento e monitoramento de transporte universitário.
 
 <div align="center">
 
-  <!-- Linguagens por repositório -->
+  <!-- 🐍 Snake animation -->
+  <img 
+    src="https://raw.githubusercontent.com/felipekek/felipekek/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+    width="100%"
+  />
+
+  <br/><br/>
+
+  <!-- Linguagens -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipekek&theme=tokyonight"
     height="180"
-    alt="Repos per language"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipekek&theme=tokyonight"
     height="180"
-    alt="Most commit language"
   />
 
   <br/><br/>
@@ -85,12 +78,10 @@ Sistema de gerenciamento e monitoramento de transporte universitário.
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipekek&theme=tokyonight"
     height="180"
-    alt="GitHub Stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=felipekek&theme=tokyonight&utcOffset=-3"
     height="180"
-    alt="Productive Time"
   />
 
 </div>
