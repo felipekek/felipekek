@@ -1,0 +1,18 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todo dia 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: felipekek
+          template: classic
+          filename: metrics.svg
+          config_timezone: America/Bahia
+          token: ${{ secrets.GITHUB_TOKEN }}
