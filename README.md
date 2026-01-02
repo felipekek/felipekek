@@ -4,11 +4,12 @@
 
 <!-- Painel principal de estatísticas (gerado por GitHub Actions) -->
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/felipekek/felipekek/main/metrics.svg"
-    width="100%"
-    alt="GitHub Metrics"
-  />
+ <img
+  src="https://raw.githubusercontent.com/felipekek/felipekek/main/metrics.svg"
+  width="100%"
+  alt="GitHub Metrics"
+/>
+
 </div>
 
 ---
