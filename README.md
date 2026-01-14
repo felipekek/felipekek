@@ -14,7 +14,7 @@
 
 Sou desenvolvedor com formação técnica em **Análise e Desenvolvimento de Sistemas pelo SENAI CIMATEC**, com foco em desenvolvimento web e backend. Curto criar soluções práticas, bem organizadas e voltadas para resolver problemas reais.
 
-📍 Feira de Santana – BA, Brasil  
+📍 Coração de Maria – BA, Brasil  
 🎓 Técnico em Análise e Desenvolvimento de Sistemas — SENAI CIMATEC  
 🚍 Projeto em destaque: **CheckBus**
 
