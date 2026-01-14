@@ -3,7 +3,7 @@
 </p>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight&color=FF5733"
   alt="Profile Details"
   width="100%"
 />
@@ -81,7 +81,7 @@ Sistema de gerenciamento e monitoramento de transporte universitário.
 
   <!-- Estatísticas gerais -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipekek&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipekek&theme=tokyonight&color=FF5733"
     height="180"
   />
   <img
