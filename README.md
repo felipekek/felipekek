@@ -12,7 +12,7 @@
 # 👨‍💻 Luís Felipe de Brito Viana
 **`Desenvolvedor de Software Júnior | Web & Back-end`**
 
-Sou desenvolvedor com formação técnica em **Análise e Desenvolvimento de Sistemas pelo SENAI CIMATEC**, com foco em desenvolvimento web e backend. Curto criar soluções práticas, bem organizadas e voltadas para resolver problemas reais.
+Sou desenvolvedor com formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAI CIMATEC e estudante de Engenharia de Software pela UNIASSELVI (EAD), com foco em desenvolvimento web e backend. Curto criar soluções práticas, bem organizadas e voltadas para resolver problemas reais.
 
 📍 Coração de Maria – BA, Brasil  
 🎓 Técnico em Análise e Desenvolvimento de Sistemas — SENAI CIMATEC  
