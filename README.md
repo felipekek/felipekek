@@ -69,11 +69,11 @@ Sistema de gerenciamento e monitoramento de transporte universitário.
 
   <!-- Linguagens -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipekek&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipekek&theme=tokyonight&color=FF5733"
     height="180"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipekek&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipekek&theme=tokyonight&color=FF5733"
     height="180"
   />
 
