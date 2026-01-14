@@ -3,7 +3,7 @@
 </p>
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight&color=FF5733"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipekek&theme=tokyonight&color=70A5FD"
   alt="Profile Details"
   width="100%"
 />
